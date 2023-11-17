@@ -1,0 +1,34 @@
+POST http://localhost:4002/products
+content-type: application/json
+   
+{
+"name": "livro chapeuzinho",
+"price": 2700
+}
+
+###
+
+
+GET http://localhost:4002/products
+
+###
+
+
+GET http://localhost:4002/products/b2c4ae99-99a4-4c25-8433-58680905b426
+
+
+###
+
+
+
+PUT http://localhost:4002/products/c0deb3f2-4cf0-423a-91d2-c2f9d1921d78
+content-type: application/json
+   
+{
+"name": "caderno preto",
+"price": 431
+}
+
+###
+
+DELETE http://localhost:4002/products/102febf1-f680-485b-8677-99c654714616

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "caderno",
+        "price": 200,
+        "id": "9e741b4d-8855-4f00-9113-a51b4594b3dd"
+    },
+    {
+        "name": "lapiseira",
+        "price": 70,
+        "id": "77a12bc1-8ea3-4879-ac76-c45b5d1de9d0"
+    },
+    {
+        "name": "livro chapeuzinho",
+        "price": 2700,
+        "id": "22e46d39-2f66-4c8d-baf2-e67bf2315d91"
+    }
+]
